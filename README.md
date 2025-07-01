@@ -42,14 +42,6 @@ Este repositório contém anotações, exercícios, implementações e atividade
 
 ---
 
-## 🗂 Organização do Repositório
-
-- `exercicios/`: Resoluções de exercícios propostos em aula
-- `implementacoes/`: Algoritmos clássicos desenvolvidos
-- `EPs/`: EPs
-
----
-
 ## 📝 Observações
 
 Este repositório tem fins acadêmicos e documenta a evolução do aprendizado ao longo da disciplina.
