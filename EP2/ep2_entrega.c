@@ -5,7 +5,7 @@
  * Lembre-se de substituir o nome do autor, abaixo, pelo seu nome e NUSP.
  * (Redundância com o retorno da função autor())
  * 
- * @author Diego Aguiar Garcia NUSP 15574221
+ * @author Diego Aguiar Garcia NUSP 155*****
  */
 #include "ep.h"
 #include <limits.h>
